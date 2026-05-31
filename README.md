@@ -1,6 +1,4 @@
 
-
-```markdown
 # Handwritten Digit Classification using TensorFlow & MNIST
 
 A simple yet highly efficient deep learning project that classifies handwritten digits (0-9) using the classic **MNIST dataset**. Built with **TensorFlow and Keras**, this project preprocesses pixel data and trains a Sequential Neural Network to recognize numerical digits with high accuracy.
@@ -87,6 +85,4 @@ Upon training, the script evaluates the model against the unseen test dataset an
 * **Validation Accuracy**
 * A sample prediction comparison alongside a rendered visualization of the test image.
 
-```
 
-```
